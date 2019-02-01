@@ -1,6 +1,11 @@
 # New Site Template
 
-[TODO. There will be project description]
+This repo is a project of a new website. It's based on template http://getbootstrap.com/examples/jumbotron/.
+Project prepared for offline work (so you can just open file from a disk in your browser).
+
+To open:
+- clone the repo
+- open `index.html` in your browser
 
 # Project Goals
 
